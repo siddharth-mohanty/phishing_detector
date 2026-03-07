@@ -158,7 +158,7 @@ Select option `3` from the scan mode menu to add, remove, or save custom regex p
 
 ```
 phishing-detector/
-├── phishing_detector.py    # Main tool — all 11 modules integrated
+├── phishing_detector.py    # Main tool
 ├── requirements.txt        # Core pip dependencies
 ├── requirements-browser.txt# Browser automation dependencies
 ├── .gitignore
@@ -185,7 +185,7 @@ Contributions are welcome! Here's how:
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/module-12-whois`
-3. Commit your changes: `git commit -m "Add: WHOIS domain age checker (Module 12)"`
+3. Commit your changes: `git commit -m "Add: WHOIS domain age checker`
 4. Push to the branch: `git push origin feature/module-12-whois`
 5. Open a Pull Request
 
