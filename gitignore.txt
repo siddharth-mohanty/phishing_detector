@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Secrets & API keys — NEVER commit these
+.env
+*.env
+secrets.json
+config.secret.*
+api_keys.txt
+google_safebrowsing_key.txt
+virustotal_key.txt
+
+# Tool runtime files
+patterns.json
+scan_cache.db
+*.db
+scan_history/
+reports/
+screenshots/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db

@@ -1,0 +1,6 @@
+# Core dependencies — required for all modules
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+cryptography>=40.0.0
+ipwhois>=1.2.0
+lxml>=4.9.0
