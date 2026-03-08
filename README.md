@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 ### 3. Install browser dependencies (optional, for full scan)
 ```bash
-pip install selenium seleniumwire playwright
+pip install selenium selenium-wire playwright
 python -m playwright install chromium
 ```
 
