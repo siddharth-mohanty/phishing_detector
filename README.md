@@ -77,7 +77,7 @@ Google Chrome + ChromeDriver (matching versions)
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/siddharth-mohanty/phishing-detector.git
+https://github.com/siddharth-mohanty/phishing_detector.git
 cd phishing-detector
 ```
 
